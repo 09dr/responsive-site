@@ -53,7 +53,8 @@ footer{
 
 }
 footer p{
-    margin:70px;
+    margin:40%;
+    text-align-last: center
 }
 footer .btn{
     background: #EEE;
